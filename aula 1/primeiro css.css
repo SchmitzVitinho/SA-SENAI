@@ -1,0 +1,13 @@
+h1,button,body{
+    background-image:url('https://imagens.brasil.elpais.com/resizer/v7-IXNHmYtAGE6bGGfQQZlmsgLY=/980x980/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/JXHP3EOLFUY7MRM747VL73R6KE.jpg');
+    color: rgb(243, 244, 245);
+    border: 8px solid red;
+    border-radius: 10px;
+    background-color: white;
+}
+
+h2{
+ background-color: red;
+ color: rgb(243, 244, 245);
+ border: 10px solid black;
+}
